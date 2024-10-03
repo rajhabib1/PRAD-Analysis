@@ -52,6 +52,7 @@ This project utilized the **Genomic Data Commons (GDC)** portal to isolate the T
 ### Visualizations
 
 - **PCA Plot**: Demonstrates that data points are correlated and suitable for further analysis.
+![PCAPlot](PCAPlot.png)
 - **Volcano Plot**: A comprehensive overview of gene expression data. Key observations:
   - **X-axis**: Represents log2(Fold Change) ranging from -2.5 to 2.5, indicating the extent of upregulation or downregulation of genes.
   - **Y-axis**: Represents -log10(adjusted p-value) scaling from 0 to 6, highlighting statistical significance.
