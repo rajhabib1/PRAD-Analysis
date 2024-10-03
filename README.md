@@ -60,7 +60,7 @@ This project utilized the **Genomic Data Commons (GDC)** portal to isolate the T
   - **Color coding**: Corresponds to log10(Mean) expression levels, showing a gradient of gene expression intensity.
   - Critical insights are drawn from genes with significant fold changes and low p-values, which may play crucial roles in biological processes under study.
 
-![VolcanoFinalPlot](VolcanoFinalPlot.png)
+![VolcanoPlotFinal](VolcanoPlotFinal.png)
 ## Supplementary Files
 
 The following supplementary files are attached to this project:
