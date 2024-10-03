@@ -67,9 +67,3 @@ The following supplementary files are attached to this project:
 4. `Table_GeneData.csv`: Includes all the genes used in the analysis with extra information.
 
 ---
-
-### Instructions for Accessing the Data
-To view and interact with the datasets and code:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
