@@ -1,5 +1,7 @@
 Comparative Analysis of High Versus No Mutations in the TP53 Gene in Prostate Cancer (PRAD) Using the TCGA Pipeline
+
 Raj Habib
+
 Thesis Statement: The primary objective of this project is to compare the high versus no mutations in the TP53 gene in prostate cancer (PRAD) using the TCGA pipeline for data isolation and filtering.
 Materials and Methods: The project utilized the Genomic Data Commons (GDC) portal to isolate the TCGA, PRAD, TP53, high mutations, and no mutations datasets. The key steps involved in the pipeline were:
 1.	Selection of the gene of interest.
